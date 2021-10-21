@@ -1,2 +1,3 @@
-leader : Galang
+leader : Galang Aji
 Vice : Bryan
+Done.
